@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url(../icons/icomoon.ttf?7dgmap) format('truetype'),
+    url(../icons/icomoon.woff?7dgmap) format('woff'),
+    url(../icons/icomoon.svg?7dgmap#icomoon) format('svg');
+      font-weight: 400;
+      font-style: normal;
+      font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 21px;
+  }
+  
+  .icon-briefcase-line:before {
+    content: "\e900";
+  }
+  .icon-bookmark-line:before {
+    content: "\e901";
+  }
+  .icon-home-smile-line:before {
+    content: "\e902";
+  }
+  .icon-menu-3-line:before {
+    content: "\e903";
+  }
+  .icon-close-line:before {
+    content: "\e904";
+  }
+  .icon-search-eye-line:before {
+    content: "\e905";
+  }
+  .icon-notification-3-line:before {
+    content: "\e906";
+  }
+  .icon-sun-foggy-line:before {
+    content: "\e907";
+  }
+  .icon-sun-line:before {
+    content: "\e908";
+  }
+  .icon-moon-foggy-line:before {
+    content: "\e909";
+  }
+  .icon-moon-clear-line:before {
+    content: "\e90a";
+  }
